@@ -41,7 +41,7 @@ import { AppState } from './app.service';
         About
       </a>
     </nav>
-
+    <h1>CHRIS</h1>
     <main>
       <router-outlet></router-outlet>
     </main>
